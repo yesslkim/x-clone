@@ -1,5 +1,7 @@
+import LoginModal from '@/components/LoginModal';
+
 const LoginPage = () => {
-	return <div></div>;
+	<LoginModal />;
 };
 
 export default LoginPage;
